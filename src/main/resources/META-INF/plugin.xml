@@ -1,0 +1,22 @@
+<idea-plugin>
+    <id>org.nelzkie.labs.crossover</id>
+    <name>Visual Studio Xcode Crossover</name>
+    <vendor email="nelzkie.labs@gmail.com" url="nelzkielabs.com">Nelzkie Labs</vendor>
+
+    <description>Color scheme of Xcode combined with Visual Studio 2022 color scheme</description>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+    <idea-version since-build="203"/>
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="3dd97ae7-c30e-4b18-a5e3-98c2a8612343" path="/visual_studio_xcode.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+
+</idea-plugin>
