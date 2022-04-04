@@ -2,3 +2,7 @@
 
 This theme combine [Xcode Dark Color Scheme](https://github.com/antelle/intellij-xcode-dark-theme) With Visual Studio 2022 Theme
 
+### Screenshot
+![screenshot: code](images/ss1.png)
+
+
